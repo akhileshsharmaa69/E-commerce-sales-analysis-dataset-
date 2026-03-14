@@ -1,0 +1,2 @@
+This project focuses on analyzing an e-commerce sales dataset to understand business performance and sales patterns. The goal of the project is to explore the dataset, clean the data, and extract meaningful insights that can help businesses make better decisions.
+The dataset contains information about orders, customers, products, sales, discounts, and profits. By analyzing this data, we can identify which products sell the most, which regions generate the highest profit, and how discounts affect overall profitability.
